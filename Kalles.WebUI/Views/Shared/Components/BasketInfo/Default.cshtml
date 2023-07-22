@@ -1,0 +1,72 @@
+﻿@model IEnumerable<Basket>
+
+@{
+    var info = Model.GroupBy(g => g.UserId)
+                                .Select(g => new
+                                {
+                                    TotalSum = g.Sum(m => m.Quantity * m.Product.Price),
+                                    TotalCount = g.Count(),
+                                })
+                                .FirstOrDefault();
+}
+
+<a asp-controller="shop" asp-action="basket" class="link-to">
+    <span class="icon-qty-combine">
+        <i class="icon-cart-mini biolife-icon"></i>
+        @if (info?.TotalCount > 0)
+        {
+            <span class="qty">@info.TotalCount</span>
+            <span class="sub-total">@info.TotalSum.ToString("0.00$")</span>
+        }
+        
+    </span>
+    <span class="title"></span>
+    @if (info?.TotalCount > 0)
+        {
+            <span class="sub-total">@info.TotalSum.ToString("0.00$")</span>
+        }
+</a>
+
+
+@if (info?.TotalCount>0){
+    <div class="cart-content">
+        <div class="cart-inner">
+            <ul class="products">
+                <li>
+
+                    @foreach (var item in Model)
+                    {
+                        <div class="minicart-item basket-item-@item.ProductId" >
+                            <div class="thumb">
+                                <a asp-controller="shop" asp-action="details" asp-route-id="@item.ProductId"><img src="~/uploads/images/@item.Product.Images.FirstOrDefault()?.Name" width="90" height="90" alt="National Fresh"></a>
+                            </div>
+                            <div class="left-info">
+                                <div class="product-title"><a asp-controller="shop" asp-action="details" asp-route-id="@item.ProductId" class="product-name">@item.Product.Name</a></div>
+                                <div class="price">
+                                    <ins><span class="price-amount"><span class="currencySymbol">£</span>@item.Quantity * @item.Product.Price</span></ins>
+
+                                </div>
+                                <div class="qty">
+                                    <label for="cart[id123][qty]">Qty:</label>
+                                    <input type="number" class="input-qty" name="cart[id123][qty]" id="cart[id123][qty]" value="1" disabled>
+                                </div>
+                            </div>
+                            <div class="action">
+                                <a href="#" class="edit"><i class="fa fa-pencil" aria-hidden="true"></i></a>
+                                <a onclick="removeFromBasket(this,'@item.Product.Name');return;" 
+                                data-product-id="@item.ProductId" 
+                                aria-remove-target=".basket-item-@item.ProductId" 
+                                ><i class="fa fa-trash-o" aria-hidden="true"></i></a>
+                            </div>
+                        </div>
+                    }
+                </li>
+
+            </ul>
+            <p class="btn-control">
+                <a asp-controller="shop" asp-action="basket" class="btn view-cart">View Basket</a>
+                <a asp-controller="shop" asp-action="checkout" class="btn">checkout</a>
+            </p>
+        </div>
+    </div>
+}

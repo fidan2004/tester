@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "bootstrap-treeview@1.2.0",
+      "destination": "wwwroot/libs/bootstrap-treeview/"
+    },
+    {
+      "provider": "cdnjs",
+      "library": "jquery-treegrid@0.2.0",
+      "destination": "wwwroot/libs/jquery-treegrid/"
+    }
+  ]
+}

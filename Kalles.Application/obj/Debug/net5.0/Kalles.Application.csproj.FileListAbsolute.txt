@@ -1,0 +1,48 @@
+C:\Users\aziye\Desktop\Kalles\Kalles.Application\bin\Debug\net5.0\Kalles.Application.deps.json
+C:\Users\aziye\Desktop\Kalles\Kalles.Application\bin\Debug\net5.0\Kalles.Application.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.Application\bin\Debug\net5.0\Kalles.Application.pdb
+C:\Users\aziye\Desktop\Kalles\Kalles.Application\obj\Debug\net5.0\Kalles.Application.csproj.AssemblyReference.cache
+C:\Users\aziye\Desktop\Kalles\Kalles.Application\obj\Debug\net5.0\Kalles.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aziye\Desktop\Kalles\Kalles.Application\obj\Debug\net5.0\Kalles.Application.AssemblyInfoInputs.cache
+C:\Users\aziye\Desktop\Kalles\Kalles.Application\obj\Debug\net5.0\Kalles.Application.AssemblyInfo.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.Application\obj\Debug\net5.0\Kalles.Application.csproj.CoreCompileInputs.cache
+C:\Users\aziye\Desktop\Kalles\Kalles.Application\obj\Debug\net5.0\Kalles.Application.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.Application\obj\Debug\net5.0\refint\Kalles.Application.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.Application\obj\Debug\net5.0\Kalles.Application.pdb
+C:\Users\aziye\Desktop\Kalles\Kalles.Application\obj\Debug\net5.0\ref\Kalles.Application.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.Application\bin\Debug\net5.0\Kalles.Application.deps.json
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.Application\bin\Debug\net5.0\Kalles.Application.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.Application\bin\Debug\net5.0\ref\Kalles.Application.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.Application\bin\Debug\net5.0\Kalles.Application.pdb
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.Application\obj\Debug\net5.0\Kalles.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.Application\obj\Debug\net5.0\Kalles.Application.AssemblyInfoInputs.cache
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.Application\obj\Debug\net5.0\Kalles.Application.AssemblyInfo.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.Application\obj\Debug\net5.0\Kalles.Application.csproj.CoreCompileInputs.cache
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.Application\obj\Debug\net5.0\Kalles.Application.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.Application\obj\Debug\net5.0\ref\Kalles.Application.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.Application\obj\Debug\net5.0\Kalles.Application.pdb
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.Application\obj\Debug\net5.0\Kalles.Application.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Kalles\Kalles.Application\bin\Debug\net5.0\Kalles.Application.deps.json
+C:\Users\Hp\Desktop\Kalles\Kalles.Application\bin\Debug\net5.0\Kalles.Application.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.Application\bin\Debug\net5.0\Kalles.Application.pdb
+C:\Users\Hp\Desktop\Kalles\Kalles.Application\obj\Debug\net5.0\Kalles.Application.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Kalles\Kalles.Application\obj\Debug\net5.0\Kalles.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Kalles\Kalles.Application\obj\Debug\net5.0\Kalles.Application.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Kalles\Kalles.Application\obj\Debug\net5.0\Kalles.Application.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.Application\obj\Debug\net5.0\Kalles.Application.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Kalles\Kalles.Application\obj\Debug\net5.0\Kalles.Application.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.Application\obj\Debug\net5.0\refint\Kalles.Application.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.Application\obj\Debug\net5.0\Kalles.Application.pdb
+C:\Users\Hp\Desktop\Kalles\Kalles.Application\obj\Debug\net5.0\ref\Kalles.Application.dll
+C:\Users\Hp\Downloads\project-main\Kalles.Application\bin\Debug\net5.0\Kalles.Application.deps.json
+C:\Users\Hp\Downloads\project-main\Kalles.Application\bin\Debug\net5.0\Kalles.Application.dll
+C:\Users\Hp\Downloads\project-main\Kalles.Application\bin\Debug\net5.0\Kalles.Application.pdb
+C:\Users\Hp\Downloads\project-main\Kalles.Application\obj\Debug\net5.0\Kalles.Application.csproj.AssemblyReference.cache
+C:\Users\Hp\Downloads\project-main\Kalles.Application\obj\Debug\net5.0\Kalles.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Downloads\project-main\Kalles.Application\obj\Debug\net5.0\Kalles.Application.AssemblyInfoInputs.cache
+C:\Users\Hp\Downloads\project-main\Kalles.Application\obj\Debug\net5.0\Kalles.Application.AssemblyInfo.cs
+C:\Users\Hp\Downloads\project-main\Kalles.Application\obj\Debug\net5.0\Kalles.Application.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Downloads\project-main\Kalles.Application\obj\Debug\net5.0\Kalles.Application.dll
+C:\Users\Hp\Downloads\project-main\Kalles.Application\obj\Debug\net5.0\refint\Kalles.Application.dll
+C:\Users\Hp\Downloads\project-main\Kalles.Application\obj\Debug\net5.0\Kalles.Application.pdb
+C:\Users\Hp\Downloads\project-main\Kalles.Application\obj\Debug\net5.0\ref\Kalles.Application.dll

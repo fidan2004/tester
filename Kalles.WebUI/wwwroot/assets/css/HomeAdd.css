@@ -1,0 +1,229 @@
+﻿.site_name {
+    color: black;
+    font-family:'Dancing Script', cursive;
+}
+.header-top{
+    margin-bottom:4.3rem;
+   
+}
+.header-social-container {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    gap: 1.5rem;
+    position: absolute;
+    left: 2.5rem;
+    top: 1rem;
+}
+
+    .header-social-container li, .header-contact li {
+        list-style: none;
+        color: gray;
+    }
+
+        .header-social-container li a {
+            text-decoration: none;
+            height: 3rem;
+            width: 3.4rem;
+            border-radius: .5rem;
+            font-size: 1.9rem;
+            color: black;
+            line-height: 1.6;
+            background: #eee;
+            text-align: center;
+            color: grey;
+        }
+
+        .header-contact li a {
+            color: grey;
+        }
+
+
+.header-contact {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    gap: 1.5rem;
+    position: absolute;
+    right: 3rem;
+    top: 1rem;
+}
+.carousel {
+    position: relative;
+    top: 4rem;
+    border-radius: 5rem;
+    text-align: left;
+}
+
+
+.carousel-caption h5 {
+    position: absolute;
+    left: 2rem;
+    top: -30rem;
+    font-size: 4.4rem;
+    color: black;
+    font-weight: bolder;
+}
+
+.carousel-caption .slider-price {
+    position: absolute;
+    left: 4rem;
+    top: -17rem;
+    font-size: 2.5rem;
+    color: grey;
+    font-weight: bolder;
+}
+
+.slider-price-second {
+    position: absolute;
+    left: 8rem;
+    top: -17rem;
+    font-size: 2.5rem;
+    color: grey;
+    font-weight: bolder;
+}
+
+.carousel-caption .slider-price span {
+    color: rgb(253, 184, 196);
+}
+
+.slider-price-second span {
+    color: rgb(253, 184, 196);
+}
+
+.slider-btn {
+    background: rgb(253, 184, 196);
+    color: white;
+    width: max-content;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 6px 11px;
+    border-radius: 0.5rem;
+    border-color: rgb(253, 184, 196);
+    transition: 0.2s ease;
+    position: absolute;
+    left: 11rem;
+    top: -12rem;
+}
+
+.firstbtn {
+    position: absolute;
+    left: 8rem;
+    top: -12rem;
+}
+
+.slider-btn:hover {
+    background: rgb(244, 153, 153);
+}
+
+
+.lookbook .container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+    justify-content: center;
+    align-items: center;
+}
+
+    .lookbook .container img {
+        width: 100%
+    }
+
+    .lookbook .container .image-one, .lookbook .container .image-two {
+        position: relative;
+        top: 5rem;
+    }
+
+
+        .lookbook .container .image-one .content, .lookbook .container .image-two .content {
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            color: white;
+            font-weight: bold;
+            font-size: 2rem;
+            position: absolute;
+            z-index: 100;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        /* instagram starts */
+
+.instagram
+{
+   margin-top: 10rem;
+}
+.title-instagram 
+{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.title-instagram .line{
+        height: 5px;
+        width: 55px;
+        background-color: #080808;
+        border-radius: 1px;
+        color: black;
+        margin: 0 20px;
+}
+
+
+.instagram .container-instagram-product{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: relative;
+    top: 2rem;
+}
+
+.container-instagram-product .box img
+{
+  width: 100%;
+}
+
+
+.container-instagram-footer
+{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: 6rem;
+   padding: 10rem 1rem;
+   justify-content: center;
+  justify-content: space-evenly;
+}
+.container-instagram-footer p
+{
+    flex-wrap: wrap;
+    font-size: small;
+    color: grey;
+  
+}
+.container-instagram-footer .icon
+{
+    font-size: 2rem;
+    color: gray;
+}
+.shipping,.return,.support,.secure
+{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+
+
+.footer-name {
+    color: black;
+    font-size: 5.9rem;
+    padding-bottom:2rem;
+    font-family: 'Dancing Script', cursive;
+}
+/* instagram ends */

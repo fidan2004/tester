@@ -1,0 +1,12 @@
+C:\Users\aziye\Desktop\BlueBlushFinalProjectEcommerce\BlueBlush.Application\bin\Debug\net5.0\BlueBlush.Application.deps.json
+C:\Users\aziye\Desktop\BlueBlushFinalProjectEcommerce\BlueBlush.Application\bin\Debug\net5.0\BlueBlush.Application.dll
+C:\Users\aziye\Desktop\BlueBlushFinalProjectEcommerce\BlueBlush.Application\bin\Debug\net5.0\BlueBlush.Application.pdb
+C:\Users\aziye\Desktop\BlueBlushFinalProjectEcommerce\BlueBlush.Application\obj\Debug\net5.0\BlueBlush.Application.csproj.AssemblyReference.cache
+C:\Users\aziye\Desktop\BlueBlushFinalProjectEcommerce\BlueBlush.Application\obj\Debug\net5.0\BlueBlush.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aziye\Desktop\BlueBlushFinalProjectEcommerce\BlueBlush.Application\obj\Debug\net5.0\BlueBlush.Application.AssemblyInfoInputs.cache
+C:\Users\aziye\Desktop\BlueBlushFinalProjectEcommerce\BlueBlush.Application\obj\Debug\net5.0\BlueBlush.Application.AssemblyInfo.cs
+C:\Users\aziye\Desktop\BlueBlushFinalProjectEcommerce\BlueBlush.Application\obj\Debug\net5.0\BlueBlush.Application.csproj.CoreCompileInputs.cache
+C:\Users\aziye\Desktop\BlueBlushFinalProjectEcommerce\BlueBlush.Application\obj\Debug\net5.0\BlueBlush.Application.dll
+C:\Users\aziye\Desktop\BlueBlushFinalProjectEcommerce\BlueBlush.Application\obj\Debug\net5.0\refint\BlueBlush.Application.dll
+C:\Users\aziye\Desktop\BlueBlushFinalProjectEcommerce\BlueBlush.Application\obj\Debug\net5.0\BlueBlush.Application.pdb
+C:\Users\aziye\Desktop\BlueBlushFinalProjectEcommerce\BlueBlush.Application\obj\Debug\net5.0\ref\BlueBlush.Application.dll

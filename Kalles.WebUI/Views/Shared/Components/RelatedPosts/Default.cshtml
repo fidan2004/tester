@@ -1,0 +1,20 @@
+﻿@model IEnumerable<BlogPost>
+
+
+
+@foreach (var item in Model)
+{
+
+
+        <li>
+            <div class="wgt-post-item">
+                <div class="thumb">
+                    <a asp-controller="blog" asp-action="details" asp-route-slug="@item.Slug"><img src="~/uploads/images/@item.ImagePath" width="80" height="58" alt=""></a>
+                </div>
+                <div class="detail">
+                    <h4 class="post-name"><a asp-controller="blog" asp-action="details" asp-route-slug="@item.Slug">@item.Title</a></h4>
+                    <p class="post-archive">@item.PublishedDate?.ToString("dd.MM.yyyy")</p>
+                </div>
+            </div>
+        </li>
+}

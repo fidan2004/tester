@@ -1,0 +1,108 @@
+﻿@model IEnumerable<Product>
+
+
+
+
+@*<div class="cart-wrap">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="main-heading mb-10">My wishlist</div>
+                <div class="table-wishlist">
+                    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                        <thead>
+                            <tr>
+                                <th width="45%">Product Name</th>
+                                <th width="15%">Unit Price</th>
+                                <th width="15%">Stock Status</th>
+                                <th width="15%"></th>
+                                <th width="10%"></th>
+                            </tr>
+                        </thead>
+                        <tbody id="dynamic-content">
+                            <partial name="_WishlistBody" model="Model" />
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>*@
+
+<div style="margin:30px 0px;" class="cart-wrap">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="main-heading mb-10" style="margin-bottom:20px;"><h2 >My wishlist</h2></div>
+                <div class="table-wishlist">
+                    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                        <thead>
+                            <tr>
+                                <th width="15%">Delete Product</th>
+                                <th width="20%">Image</th>
+                                <th width="15%">Name</th>
+                                <th width="15%">Price</th>
+                                <th width="20%">Stock Status</th>
+                            </tr>
+                        </thead>
+                        <tbody id="dynamic-content">
+                            <partial name="_WishlistBody" model="Model" />
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section addjs{
+    <script>
+        function removeFromFav(productId, e) {
+            e.preventDefault();
+
+            $.ajax({
+                url: '',
+                type: 'post',
+                beforeSend: function (xhr) {
+                    const favorites = ($.cookie('favorites') || '').split(',').filter(item => item.length > 0);
+                    const refreshFavorites = favorites.filter(item => item != productId);
+                    $.cookie('favorites', refreshFavorites.toString(), { path: '/', expires: 7 });
+                },
+                success: function (response) {
+                    $('#dynamic-content').html(response);
+                },
+                error: function (response) {
+                }
+            });
+        }
+
+        function addToBasket(e) {
+            e.preventDefault();
+
+            const elementData = $(e.currentTarget).data();
+
+            $.ajax({
+                url: `@Url.Action("Basket","Shop")`,
+                type: 'POST',
+                data: elementData,
+                contentType: 'application/x-www-form-urlencoded',
+                success: function (response) {
+                    if (response.error == false) {
+                        $(e.target).closest('tr').remove();
+                        toastr.success(response.message, 'Success');
+                        return;
+                    }
+
+
+                    toastr.error(response.message, 'Error');
+                },
+                error: function (response, status, xhr) {
+                    console.log(response, status, xhr);
+                }
+            });
+        }
+    </script>
+}

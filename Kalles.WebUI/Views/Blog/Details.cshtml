@@ -1,0 +1,265 @@
+﻿@model BlogPost
+@{
+    ViewData["Title"] = "Details";
+}
+<div style="margin-bottom:50px;" class="page-contain blog-page left-sidebar">
+    <div class="container">
+        <div class="row">
+
+            <!-- Main content -->
+            <div id="main-content" class="main-content col-lg-9 col-md-8 col-sm-12 col-xs-12">
+
+                <!--Single Post Contain-->
+               
+                 <div class="single-post-contain">
+
+                    <div class="post-head">
+                        <div class="thumbnail">
+                            <figure style="text-align:center;"><img src="~/uploads/images/@Model.ImagePath" width="50%"  alt=""></figure>
+                        </div>
+                        <h2 class="post-name">@Model.Title</h2>
+                        <p class="post-archive"><b class="post-cat">ORGANIC</b><span class="post-date"> @Model.PublishedDate?.ToString("dd MMM yyyy")</span></p>
+                    </div>
+                    @Html.Raw(Model.Body)
+                    <div class="post-content">
+                        @Model.Body
+                    </div>
+
+                    <div class="post-foot">
+
+                        <div class="post-tags">
+                            <span class="tag-title">Tags:</span>
+                            <ul class="tags">
+                                @foreach (var item in Model.TagCloud)
+                                {
+                                    <li><a class="tag-link" href="#">@item.Tag?.Text</a></li>
+                                }
+
+                            </ul>
+                        </div>
+
+                      
+
+                    </div>
+
+                </div>
+                <!--Comment Block-->
+               
+
+            </div>
+
+            <!-- Sidebar -->
+            <aside id="sidebar" class="sidebar blog-sidebar col-lg-3 col-md-4 col-sm-12 col-xs-12">
+
+                <div class="biolife-mobile-panels">
+                    <span class="biolife-current-panel-title">Sidebar</span>
+                    <a class="biolife-close-btn" href="#" data-object="open-mobile-filter">&times;</a>
+                </div>
+
+                <div class="sidebar-contain">
+
+                    <!--Search Widget-->
+                    
+
+                    <!--Categories Widget-->
+                    <div class="widget biolife-filter">
+                        <h4 class="wgt-title">Category:</h4>
+                        <div class="wgt-content">
+                            <ul class="cat-list">
+                                <li class="cat-list-item"><a href="#" class="cat-link">@Model.Category?.Name</a></li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!--Posts Widget-->
+                    <div class="widget posts-widget">
+                        <h4 class="wgt-title">Recent post</h4>
+                        <div class="wgt-content">
+                            <ul class="posts">
+                                
+                               @await Component.InvokeAsync("RecentPosts")
+                            </ul>
+                        </div>
+                    </div>
+
+                  
+
+                    <!--Comments Widget-->
+                    
+
+                </div>
+            </aside>
+        </div>
+    </div>
+</div>
+
+
+
+<!-- Li's Main Blog Page Area End Here -->
+@section addjs{
+    <script>
+        $('.blog-related-post-active').owlCarousel({
+        loop: false,
+        margin: 30,
+        smartSpeed: 1000,
+        nav: false,
+        dots: false,
+        items: 2,
+        responsive: {
+            0: {
+                items: 1,
+                autoplay:true
+            },
+            480: {
+                items: 1
+            },
+            768: {
+                items: 2
+            },
+            992:{
+                margin: 29,
+                items: 2
+            },
+            1200: {
+                items: 2
+            }
+        }
+    })
+    </script>
+}
+@section addcss{
+
+<style>
+    .mtb-50 {
+  margin: 50px 0;
+}
+/* 109 */
+.blog-title {
+  display: block;
+  font-size: 20px;
+  text-transform: none;
+  font-weight: 400;
+  line-height: 22px;
+  position: relative;
+  margin-bottom: 12px;
+  margin-top: 0;
+}
+/* 3300 */
+.blog-content {
+  background: #fff;
+}
+/* 3304 */
+.blog-content-upper {
+  padding: 30px;
+}
+/* 3308 */
+.blog-content-lower {
+  border-top: 1px solid #eaeaea;
+  padding: 30px;
+}
+/* 3313 */
+.blog-title {
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: 500;
+  position: relative;
+  padding-bottom: 15px;
+  display: inline-block;
+}
+/* 3322 */
+.blog-title:before {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: #d1d1d1;
+  content: "";
+  width: 44px;
+  height: 1px;
+}
+/* 3332 */
+.blog-title:hover a {
+  color: #4380db;
+}
+/* 3336 */
+.blog-content-lower a:hover {
+  color: #4380db;
+}
+/* 3340 */
+.blog-content-upper p {
+  letter-spacing: 0.025em;
+  line-height: 24px;
+  padding: 10px 0 0;
+}
+/* 3346 */
+.blog-img a {
+  position: relative;
+  display: block;
+}
+/* 3351 */
+.blog-img a:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.15);
+  opacity: 0;
+  -webkit-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+}
+/* 3364 */
+.single-blog:hover .blog-img a:before {
+  opacity: 1;
+}
+/* 3368 */
+.blog-area.off-white-bg .single-blog {
+  margin-bottom: 30px;
+}
+/* 3372 */
+.blog-img img {
+  width: 100%;
+}
+/* 3408 */
+.blog-related-post-active .single-blog {
+  border: 1px solid #ebebeb;
+}
+/* 3460 */
+.blog-img.blog-single-img img {
+  border: 1px solid #ebebeb;
+}
+/* 3477 */
+.blog-related-post .single-related-post {
+  margin-bottom: 40px;
+}
+/* 3542 */
+.half-right {
+  width: 50%;
+  float: left;
+  padding-left: 15px;
+}
+/* 3580 */
+.recent-post .sidebar-title {
+  border-bottom: medium none;
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 40px;
+  padding-bottom: 5px;
+  position: relative;
+  text-transform: uppercase;
+}
+/* 3674 */
+.recent-post .sidebar-title:before {
+  background-color: #4380db;
+  bottom: -5px;
+  content: "";
+  height: 2px;
+  left: 0;
+  position: absolute;
+  width: 120px;
+  letter-spacing: 1px;
+}
+</style>
+
+}

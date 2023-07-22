@@ -1,0 +1,88 @@
+﻿<nav class="pcoded-navbar">
+    <div class="pcoded-inner-navbar main-menu">
+        <div class="pcoded-navigatio-lavel">İdarəetmə</div>
+        <ul class="pcoded-item pcoded-left-item">
+            <li>
+                <a asp-controller="dashboard" asp-action="index">
+                    <span class="pcoded-micon">
+                        <i class="feather icon-home"></i>
+                    </span>
+                    <span class="pcoded-mtext">Ana səhifə</span>
+                </a>
+            </li>
+            <li class="pcoded-hasmenu" dropdown-icon="style1" subitem-icon="style1">
+                <a href="javascript:void(0)">
+                    <span class="pcoded-micon"><i class="feather icon-box"></i></span>
+                    <span class="pcoded-mtext">Bütün Funksionallıq</span>
+                    <span class="pcoded-mcaret"></span>
+                </a>
+                <ul class="pcoded-submenu">
+                    @*@if (User.HasAccess("admin.products.index"))
+                    {
+                        <li>
+                            <a asp-controller="brands" asp-action="index">
+                                <span class="pcoded-mtext">Məhsullar</span>
+                            </a>
+                        </li>
+                    }*@  @*bura evvelki veziyyetdede komentde qalmisdi*@
+                   
+                    @if (User.HasAccess("admin.brands.index"))
+                    {
+                        <li>
+                            <a asp-controller="categories" asp-action="index">
+                                <span class="pcoded-mtext">Kateqoriyalar</span>
+                            </a>
+                        </li>
+                    }
+                    @if (User.HasAccess("admin.brands.index"))
+                    {
+                        <li>
+                            <a asp-controller="brands" asp-action="index">
+                                <span class="pcoded-mtext">Markalar</span>
+                            </a>
+                        </li>
+                    }
+
+
+             
+                    @if (User.HasAccess("admin.products.index"))
+                    {
+                        <li>
+                            <a asp-controller="products" asp-action="index">
+                                <span class="pcoded-mtext">Məhsullar</span>
+                            </a>
+                        </li>
+                    }
+                    @if (User.HasAccess("admin.brands.index"))
+                    {
+                            <li>
+                                <a asp-controller="blogposts" asp-action="index">
+                                    <span class="pcoded-mtext">Blog</span>
+                                </a>
+                            </li>
+                    }
+                </ul>
+            </li>
+           
+            <li class="pcoded-hasmenu" dropdown-icon="style1" subitem-icon="style1">
+                <a href="javascript:void(0)">
+                    <span class="pcoded-micon"><i class="feather icon-inbox"></i></span>
+                    <span class="pcoded-mtext">Forum</span>
+                    <span class="pcoded-mcaret"></span>
+                </a>
+                <ul class="pcoded-submenu">
+                    <li>
+                        <a asp-controller="blogposts" asp-action="index">
+                            <span class="pcoded-mtext">Paylaşımlar</span>
+                        </a>
+                    </li>
+                    
+                </ul>
+            </li>
+            
+            
+        </ul>
+        
+        
+    </div>
+</nav>

@@ -1,0 +1,55 @@
+﻿@using BigOn.Domain.AppCode.Extensions;
+@model IEnumerable<Category>
+<div class="vertical-menu vertical-category-block">
+                            <div style="background-color: #337ab7;" class="block-title">
+                                <span class="menu-icon">
+                                    <span class="line-1"></span>
+                                    <span class="line-2"></span>
+                                    <span class="line-3"></span>
+                                </span>
+                                <span class="menu-title">All Categories</span>
+                                <span class="angle" data-tgleclass="fa fa-caret-down"><i class="fa fa-caret-up" aria-hidden="true"></i></span>
+                            </div>
+                            <div class="wrap-menu">
+                                <ul class="menu clone-main-menu">
+                                    @foreach(var item in Model.Where(m=>m.ParentId == null))
+                                    {
+                                        <li class="menu-item menu-item-has-children has-megamenu">
+                                        <a asp-controller="shop" class="menu-name" data-title="Fruit &amp; Nut Gifts">@item.Name</a>
+                                        <div class="wrap-megamenu lg-width-900 md-width-640">
+                                            <div class="mega-content">
+                                                <div class="row">
+                                                    @if (item.Children.Any())
+                                                        {
+                                                            @foreach (var child in item.Children)
+                                                            {
+                                                                <div class="col-lg-3 col-md-4 col-sm-12 xs-margin-bottom-25 md-margin-bottom-0">
+                                                                    <div class="wrap-custom-menu vertical-menu">
+                                                                        <h4  class="menu-title">@child.Name</h4>
+                                                                        <ul class="menu">
+                                                                                @foreach (var subChild in @child.GetAllChildren())
+                                                                                {
+                                                                                    <li><a asp-controller="shop" >@subChild.Name</a></li>
+                                                                                }
+                                                  
+                                                                        </ul>
+                                                                    </div>
+                                                                </div>
+                                                            }
+                                   
+                                                        }
+                                                   
+                                                   
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                        </li>
+                                    }
+                                    
+                                    
+                                    
+                                  
+                                </ul>
+                            </div>
+                        </div>

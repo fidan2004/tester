@@ -1,0 +1,81 @@
+﻿@model PagedViewModel<BlogPost>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<!-- Begin Li's Breadcrumb Area -->
+<div class="page-contain blog-page">
+    <div class="container">
+        <!-- Main content -->
+        <div id="main-content" class="main-content">
+
+            <div class="row">
+
+                <!--articles block-->
+                <ul class="posts-list main-post-list">
+                    <div id="dynamic-content">
+                        <partial name="_BlogPostsBody" model="@Model" />
+                    </div>
+                    
+                </ul>
+
+            </div>
+
+          
+            
+
+        </div>
+    </div>
+</div>
+<!-- Li's Breadcrumb Area End Here -->
+<!-- Begin Li's Main Blog Page Area -->
+
+@section addcss{
+<style>
+    body {
+        scroll-behavior: smooth;
+    }
+</style>
+}
+
+@section addjs{
+<script>
+            //function goPage(pageIndex,pageSize) {
+
+            //    $.ajax({
+            //        url:`@Url.Action("Index")?pageIndex=${pageIndex}&pageSize=${pageSize}`,
+            //        method:'GET',
+            //        success: function(response) {
+            //            $('#dynamic-content').html(response);
+            //            location.hash = "#dynamic-content";
+            //            location.hash = "";
+            //        },
+            //        error: function(response) {
+            //            console.log(response);
+            //        }
+            //    });
+            //}
+            function goPage(pageIndex, pageSize) {
+
+            $.ajax({
+                url: `@Url.Action("Index")`,
+                type: 'POST',
+                data: {
+                    pageIndex: pageIndex,
+                    pageSize: pageSize
+                },
+                contentType:'application/x-www-form-urlencoded',
+                success: function(response) {
+                    $('#dynamic-content').html(response);
+                    location.hash = "#dynamic-content";
+                    location.hash = "";
+                },
+                error: function(response) {
+                    console.log(response);
+                }
+            });
+        }
+</script>
+}
+
+

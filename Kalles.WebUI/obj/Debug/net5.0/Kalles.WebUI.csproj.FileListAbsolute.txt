@@ -1,0 +1,909 @@
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\libman.json
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\appsettings.json
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.exe
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.deps.json
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.runtimeconfig.json
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.runtimeconfig.dev.json
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.pdb
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.Views.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.Views.pdb
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\MediatR.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\MediatR.Contracts.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.Application.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.Domain.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.Application.pdb
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.Domain.pdb
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.csproj.AssemblyReference.cache
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.AssemblyInfoInputs.cache
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.AssemblyInfo.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.RazorAssemblyInfo.cache
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.RazorAssemblyInfo.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\scopedcss\bundle\Kalles.WebUI.styles.css
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\staticwebassets\Kalles.WebUI.StaticWebAssets.Manifest.cache
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\staticwebassets\Kalles.WebUI.StaticWebAssets.Pack.cache
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\staticwebassets\msbuild.Kalles.WebUI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\staticwebassets\msbuild.build.Kalles.WebUI.props
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Kalles.WebUI.props
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Kalles.WebUI.props
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.TagHelpers.input.cache
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.TagHelpers.output.cache
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.RazorCoreGenerate.cache
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\BlogPosts\Create.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\BlogPosts\Details.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\BlogPosts\Edit.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\BlogPosts\Index.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Brands\Create.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Brands\Details.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Brands\Edit.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Brands\Index.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Create.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Edit.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Index.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Colors\Create.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Colors\Details.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Colors\Edit.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Colors\Index.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Faqs\Create.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Faqs\Details.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Faqs\Edit.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Faqs\Index.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Materials\Create.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Materials\Details.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Materials\Edit.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Materials\Index.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductSizes\Create.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductSizes\Delete.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductSizes\Details.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductSizes\Edit.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductSizes\Index.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Products\Details.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Products\_ListBody.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Sidebar.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Sizes\Create.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Sizes\Details.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Sizes\Edit.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Sizes\Index.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Account\Signin.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Blog\Details.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Blog\_BlogPostsBody.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Home\Faq.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Home\SubscribeApprove.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\AllCategories\Default.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\BasketInfo\Default.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\RecentPosts\Default.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\RelatedPosts\Default.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\ReleatedProducts\Default.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_BasketScriptsPartial.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_Subscribe.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shop\Basket.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shop\Details.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shop\Index.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shop\Wishlist.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shop\_Products.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shop\_WishlistBody.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.Views.pdb
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.csproj.CopyComplete
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\refint\Kalles.WebUI.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.pdb
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.genruntimeconfig.cache
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\ref\Kalles.WebUI.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\appsettings.json
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\libman.json
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.exe
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.deps.json
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.runtimeconfig.json
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.runtimeconfig.dev.json
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ref\Kalles.WebUI.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.pdb
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.Views.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.Views.pdb
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\MediatR.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\MediatR.Contracts.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.Application.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.Domain.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.Application.pdb
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.Domain.pdb
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.csproj.AssemblyReference.cache
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.AssemblyInfoInputs.cache
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.AssemblyInfo.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.RazorAssemblyInfo.cache
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.RazorAssemblyInfo.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\staticwebassets\Kalles.WebUI.StaticWebAssets.Manifest.cache
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\staticwebassets\Kalles.WebUI.StaticWebAssets.xml
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\scopedcss\bundle\Kalles.WebUI.styles.css
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.TagHelpers.input.cache
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.TagHelpers.output.cache
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.RazorCoreGenerate.cache
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\BlogPosts\Create.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\BlogPosts\Details.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\BlogPosts\Edit.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\BlogPosts\Index.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Brands\Create.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Brands\Details.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Brands\Edit.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Brands\Index.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Create.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Edit.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Index.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Colors\Create.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Colors\Details.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Colors\Edit.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Colors\Index.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Faqs\Create.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Faqs\Details.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Faqs\Edit.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Faqs\Index.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Materials\Create.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Materials\Details.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Materials\Edit.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Materials\Index.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductSizes\Create.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductSizes\Delete.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductSizes\Details.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductSizes\Edit.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductSizes\Index.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Products\Details.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Products\_ListBody.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Sidebar.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Sizes\Create.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Sizes\Details.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Sizes\Edit.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Sizes\Index.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Account\Signin.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Blog\Details.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Blog\_BlogPostsBody.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Home\Faq.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Home\SubscribeApprove.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\AllCategories\Default.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\BasketInfo\Default.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\RecentPosts\Default.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\RelatedPosts\Default.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\ReleatedProducts\Default.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_BasketScriptsPartial.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_Subscribe.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shop\Basket.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shop\Details.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shop\Index.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shop\Wishlist.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shop\_Products.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shop\_WishlistBody.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.Views.pdb
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.csproj.CopyComplete
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\ref\Kalles.WebUI.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.pdb
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.genruntimeconfig.cache
+C:\Users\aziye\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.StaticWebAssets.xml
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\appsettings.json
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\libman.json
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.StaticWebAssets.xml
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.exe
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.deps.json
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.runtimeconfig.json
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.pdb
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.Views.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.Views.pdb
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\MediatR.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\MediatR.Contracts.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.Application.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.Domain.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.Application.pdb
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\bin\Debug\net5.0\Kalles.Domain.pdb
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.RazorAssemblyInfo.cache
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.RazorAssemblyInfo.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\scopedcss\bundle\Kalles.WebUI.styles.css
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\staticwebassets\Kalles.WebUI.StaticWebAssets.Manifest.cache
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.TagHelpers.input.cache
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.TagHelpers.output.cache
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.RazorCoreGenerate.cache
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\BlogPosts\Create.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\BlogPosts\Details.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\BlogPosts\Edit.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\BlogPosts\Index.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Brands\Create.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Brands\Details.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Brands\Edit.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Brands\Index.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Create.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Edit.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Index.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Colors\Create.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Colors\Details.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Colors\Edit.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Colors\Index.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Faqs\Create.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Faqs\Details.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Faqs\Edit.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Faqs\Index.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Materials\Create.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Materials\Details.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Materials\Edit.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Materials\Index.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductSizes\Create.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductSizes\Delete.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductSizes\Details.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductSizes\Edit.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductSizes\Index.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Products\Details.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Products\_ListBody.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Sidebar.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Sizes\Create.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Sizes\Details.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Sizes\Edit.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Sizes\Index.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Account\Signin.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Blog\Details.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Blog\_BlogPostsBody.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Home\Faq.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Home\SubscribeApprove.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\AllCategories\Default.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\BasketInfo\Default.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\RecentPosts\Default.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\RelatedPosts\Default.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\ReleatedProducts\Default.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_BasketScriptsPartial.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_Subscribe.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shop\Basket.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shop\Details.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shop\Index.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shop\Wishlist.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shop\_Products.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shop\_WishlistBody.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.Views.pdb
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.csproj.CopyComplete
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\refint\Kalles.WebUI.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.pdb
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Kalles\Kalles.WebUI\obj\Debug\net5.0\ref\Kalles.WebUI.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\appsettings.json
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\libman.json
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.StaticWebAssets.xml
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.exe
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.deps.json
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.runtimeconfig.json
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.runtimeconfig.dev.json
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.pdb
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.Views.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Kalles.WebUI.Views.pdb
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\MediatR.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\MediatR.Contracts.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Kalles.Application.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Kalles.Domain.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Kalles.Application.pdb
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\bin\Debug\net5.0\Kalles.Domain.pdb
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.csproj.AssemblyReference.cache
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.AssemblyInfoInputs.cache
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.AssemblyInfo.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.RazorAssemblyInfo.cache
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.RazorAssemblyInfo.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\scopedcss\bundle\Kalles.WebUI.styles.css
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\staticwebassets\Kalles.WebUI.StaticWebAssets.Manifest.cache
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.TagHelpers.input.cache
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.TagHelpers.output.cache
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.RazorCoreGenerate.cache
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\BlogPosts\Create.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\BlogPosts\Details.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\BlogPosts\Edit.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\BlogPosts\Index.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Brands\Create.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Brands\Details.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Brands\Edit.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Brands\Index.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Create.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Edit.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Index.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Colors\Create.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Colors\Details.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Colors\Edit.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Colors\Index.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Faqs\Create.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Faqs\Details.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Faqs\Edit.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Faqs\Index.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Materials\Create.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Materials\Details.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Materials\Edit.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Materials\Index.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductSizes\Create.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductSizes\Delete.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductSizes\Details.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductSizes\Edit.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductSizes\Index.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Products\Details.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Products\_ListBody.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Sidebar.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Sizes\Create.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Sizes\Details.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Sizes\Edit.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Sizes\Index.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Account\Signin.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Blog\Details.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Blog\_BlogPostsBody.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Home\Faq.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Home\SubscribeApprove.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\AllCategories\Default.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\BasketInfo\Default.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\RecentPosts\Default.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\RelatedPosts\Default.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\ReleatedProducts\Default.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_BasketScriptsPartial.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_Subscribe.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shop\Basket.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shop\Details.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shop\Index.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shop\Wishlist.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shop\_Products.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\Shop\_WishlistBody.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.Views.pdb
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.csproj.CopyComplete
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\refint\Kalles.WebUI.dll
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.pdb
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\Kalles.WebUI.genruntimeconfig.cache
+C:\Users\Hp\Downloads\project-main\Kalles.WebUI\obj\Debug\net5.0\ref\Kalles.WebUI.dll

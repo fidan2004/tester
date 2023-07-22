@@ -1,0 +1,180 @@
+﻿@model PagedViewModel<Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<!-- Begin Li's Content Wraper Area -->
+
+
+
+<div class="page-contain category-page left-sidebar" style="margin:30px 0px;">
+    <div class="container">
+        <div class="row">
+            <!-- Main content -->
+            <div id="main-content" class="main-content col-lg-9 col-md-8 col-sm-12 col-xs-12">
+                <div class="product-category grid-style">
+                    <div class="row">
+                        <ul class="products-list">
+                          
+                            <partial name="_Products" model="@Model" />
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- Sidebar -->
+            <aside id="sidebar" class="sidebar col-lg-3 col-md-4 col-sm-12 col-xs-12">
+
+                <div class="sidebar-contain">
+                    <div class="widget biolife-filter">
+                        <h4 class="wgt-title">Departements</h4>
+                        <div class="wgt-content">
+                            <ul class="cat-list">
+                                <li class="cat-list-item"><button style="padding: 0px 30px; background-color: gray; color: white; border-radius: 10px; margin-bottom: 10px;" id="button0">All</button></li>
+                                <hr/>
+                                <li class="cat-list-item"><button style="padding: 0px 30px; background-color: gray; color: white; border-radius: 10px; margin-bottom: 10px;" id="button2">Man</button></li>
+                                <li class="cat-list-item"><button style="padding: 0px 30px; background-color: gray; color: white; border-radius: 10px; margin-bottom: 10px;" id="button3">Shoes</button></li>
+                                <li class="cat-list-item"><button style="padding: 0px 30px; background-color: gray; color: white; border-radius: 10px; margin-bottom: 10px;" id="button4">Jeans</button></li>
+                                <li class="cat-list-item"><button style="padding: 0px 30px; background-color: gray; color: white; border-radius: 10px; margin-bottom: 10px;" id="button5">Coats</button></li>
+                                <hr />
+                                <li class="cat-list-item"><button style="padding: 0px 30px; background-color: gray; color: white; border-radius: 10px; margin-bottom: 10px;" id="button1">Woman</button></li>
+                                <li class="cat-list-item"><button style="padding: 0px 30px; background-color: gray; color: white; border-radius: 10px; margin-bottom: 10px;" id="button6">Bags</button></li>
+                                <li class="cat-list-item"><button style="padding: 0px 30px; background-color: gray; color: white; border-radius: 10px; margin-bottom: 10px;" id="button7">Jackets</button></li>
+                                <li class="cat-list-item"><button style="padding: 0px 30px; background-color: gray; color: white; border-radius: 10px; margin-bottom: 10px;" id="button8">T-Shirts</button></li>
+                               
+                            </ul>
+                        </div>
+                    </div>
+
+
+                </div>
+
+            </aside>
+        </div>
+    </div>
+</div>
+
+<!-- Content Wraper Area End Here -->
+@*@section addcss{
+<style>
+    .pagination-box {
+        text-align: right;
+    }
+
+        .pagination-box > li {
+            display: inline-block;
+        }
+</style>
+}*@
+
+@section addjs{
+<script>
+
+        function goPage(pageIndex, pageSize) {
+
+        $.ajax({
+            url: `@Url.Action("Index")`,
+            type: 'POST',
+            data: {
+                pageIndex: pageIndex,
+                pageSize: pageSize
+            },
+            contentType:'application/x-www-form-urlencoded',
+            success: function(response) {
+                $('#dynamic-content').html(response);
+                location.hash = "#dynamic-content";
+                location.hash = "";
+            },
+            error: function(response) {
+                console.log(response);
+            }
+        });
+    }
+        function addToFavorites(productId)
+        {
+            const favorites = ($.cookie('favorites') || '').split(',').filter(item => item.length > 0);
+
+            if (favorites.filter(item => item == productId).length == 0)
+            {
+                favorites.push(productId);
+
+                $.cookie('favorites',favorites.toString(),{ path: '/', expires:5 })
+            }
+            console.log($.cookie('favorites'));
+
+        }
+
+        const button1 = document.getElementById('button1');
+        const button2 = document.getElementById('button2');
+        const button0 = document.getElementById('button0');
+        const button3 = document.getElementById('button3');
+        const button4 = document.getElementById('button4');
+        const button5 = document.getElementById('button5');
+        const button6 = document.getElementById('button6');
+        const button7 = document.getElementById('button7');
+        const button8 = document.getElementById('button8');
+
+
+        const productItems = document.querySelectorAll('.product-item');
+
+        button1.addEventListener('click', function () {
+            hideProducts2('5');
+        });
+
+        button2.addEventListener('click', function () {
+            hideProducts2('1');
+        });
+        button0.addEventListener('click', function () {
+            showProducts('ALL');
+        });
+        button3.addEventListener('click', function () {
+            hideProducts('SHOES');
+        });
+
+        button4.addEventListener('click', function () {
+            hideProducts('JEANS');
+        });
+        button5.addEventListener('click', function () {
+            hideProducts('COATS');
+        });
+        button6.addEventListener('click', function () {
+            hideProducts('BAGS');
+        });
+
+        button7.addEventListener('click', function () {
+            hideProducts('JACKETS');
+        });
+        button8.addEventListener('click', function () {
+            hideProducts('T-SHIRTS');
+        });
+
+        function hideProducts(gender) {
+            productItems.forEach(function (item) {
+                const itemGender = item.getAttribute('data-gender');
+                if (itemGender === gender) {
+                    item.style.display = 'block';
+                }
+                if(itemGender != gender){
+                    item.style.display = 'none';
+                }
+            });
+        }
+         function hideProducts2(id) {
+            productItems.forEach(function (item) {
+                const itemId = item.getAttribute('data-id');
+                if (itemId === id) {
+                    item.style.display = 'block';
+                }
+                if (itemId != id) {
+                    item.style.display = 'none';
+                }
+            });
+        }
+        function showProducts(gender) {
+            productItems.forEach(function (item) {
+                    item.style.display = 'block';
+                
+            });
+        }
+</script>
+}

@@ -1,0 +1,72 @@
+C:\Users\aziye\Desktop\Kalles\Kalles.Domain\bin\Debug\net5.0\Kalles.Domain.deps.json
+C:\Users\aziye\Desktop\Kalles\Kalles.Domain\bin\Debug\net5.0\Kalles.Domain.runtimeconfig.json
+C:\Users\aziye\Desktop\Kalles\Kalles.Domain\bin\Debug\net5.0\Kalles.Domain.runtimeconfig.dev.json
+C:\Users\aziye\Desktop\Kalles\Kalles.Domain\bin\Debug\net5.0\Kalles.Domain.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.Domain\bin\Debug\net5.0\Kalles.Domain.pdb
+C:\Users\aziye\Desktop\Kalles\Kalles.Domain\bin\Debug\net5.0\Kalles.Application.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.Domain\bin\Debug\net5.0\Kalles.Application.pdb
+C:\Users\aziye\Desktop\Kalles\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.csproj.AssemblyReference.cache
+C:\Users\aziye\Desktop\Kalles\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aziye\Desktop\Kalles\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.AssemblyInfoInputs.cache
+C:\Users\aziye\Desktop\Kalles\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.AssemblyInfo.cs
+C:\Users\aziye\Desktop\Kalles\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aziye\Desktop\Kalles\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.csproj.CopyComplete
+C:\Users\aziye\Desktop\Kalles\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.Domain\obj\Debug\net5.0\refint\Kalles.Domain.dll
+C:\Users\aziye\Desktop\Kalles\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.pdb
+C:\Users\aziye\Desktop\Kalles\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.genruntimeconfig.cache
+C:\Users\aziye\Desktop\Kalles\Kalles.Domain\obj\Debug\net5.0\ref\Kalles.Domain.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.Domain\bin\Debug\net5.0\Kalles.Domain.deps.json
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.Domain\bin\Debug\net5.0\Kalles.Domain.runtimeconfig.json
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.Domain\bin\Debug\net5.0\Kalles.Domain.runtimeconfig.dev.json
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.Domain\bin\Debug\net5.0\Kalles.Domain.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.Domain\bin\Debug\net5.0\ref\Kalles.Domain.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.Domain\bin\Debug\net5.0\Kalles.Domain.pdb
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.Domain\bin\Debug\net5.0\Kalles.Application.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.Domain\bin\Debug\net5.0\Kalles.Application.pdb
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.csproj.AssemblyReference.cache
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.AssemblyInfoInputs.cache
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.AssemblyInfo.cs
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.csproj.CopyComplete
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.Domain\obj\Debug\net5.0\ref\Kalles.Domain.dll
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.pdb
+C:\Users\Alik Jabbr\Desktop\Kalles\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Kalles\Kalles.Domain\bin\Debug\net5.0\Kalles.Domain.deps.json
+C:\Users\Hp\Desktop\Kalles\Kalles.Domain\bin\Debug\net5.0\Kalles.Domain.runtimeconfig.json
+C:\Users\Hp\Desktop\Kalles\Kalles.Domain\bin\Debug\net5.0\Kalles.Domain.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\Kalles\Kalles.Domain\bin\Debug\net5.0\Kalles.Domain.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.Domain\bin\Debug\net5.0\Kalles.Domain.pdb
+C:\Users\Hp\Desktop\Kalles\Kalles.Domain\bin\Debug\net5.0\Kalles.Application.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.Domain\bin\Debug\net5.0\Kalles.Application.pdb
+C:\Users\Hp\Desktop\Kalles\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Kalles\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Kalles\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Kalles\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Kalles\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Kalles\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.csproj.CopyComplete
+C:\Users\Hp\Desktop\Kalles\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.Domain\obj\Debug\net5.0\refint\Kalles.Domain.dll
+C:\Users\Hp\Desktop\Kalles\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.pdb
+C:\Users\Hp\Desktop\Kalles\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Kalles\Kalles.Domain\obj\Debug\net5.0\ref\Kalles.Domain.dll
+C:\Users\Hp\Downloads\project-main\Kalles.Domain\bin\Debug\net5.0\Kalles.Domain.deps.json
+C:\Users\Hp\Downloads\project-main\Kalles.Domain\bin\Debug\net5.0\Kalles.Domain.runtimeconfig.json
+C:\Users\Hp\Downloads\project-main\Kalles.Domain\bin\Debug\net5.0\Kalles.Domain.runtimeconfig.dev.json
+C:\Users\Hp\Downloads\project-main\Kalles.Domain\bin\Debug\net5.0\Kalles.Domain.dll
+C:\Users\Hp\Downloads\project-main\Kalles.Domain\bin\Debug\net5.0\Kalles.Domain.pdb
+C:\Users\Hp\Downloads\project-main\Kalles.Domain\bin\Debug\net5.0\Kalles.Application.dll
+C:\Users\Hp\Downloads\project-main\Kalles.Domain\bin\Debug\net5.0\Kalles.Application.pdb
+C:\Users\Hp\Downloads\project-main\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.csproj.AssemblyReference.cache
+C:\Users\Hp\Downloads\project-main\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Downloads\project-main\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.AssemblyInfoInputs.cache
+C:\Users\Hp\Downloads\project-main\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.AssemblyInfo.cs
+C:\Users\Hp\Downloads\project-main\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Downloads\project-main\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.csproj.CopyComplete
+C:\Users\Hp\Downloads\project-main\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.dll
+C:\Users\Hp\Downloads\project-main\Kalles.Domain\obj\Debug\net5.0\refint\Kalles.Domain.dll
+C:\Users\Hp\Downloads\project-main\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.pdb
+C:\Users\Hp\Downloads\project-main\Kalles.Domain\obj\Debug\net5.0\Kalles.Domain.genruntimeconfig.cache
+C:\Users\Hp\Downloads\project-main\Kalles.Domain\obj\Debug\net5.0\ref\Kalles.Domain.dll
